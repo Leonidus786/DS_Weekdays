@@ -1,5 +1,5 @@
 # previously we saw how the len function gives us a type error when we give it a number instead of a string.
-print(len("abhishek"))
+
 # print(len(483))
 
 # So, let's talk a liitle bit more about data types and functions.
