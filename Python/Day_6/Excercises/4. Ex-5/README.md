@@ -1,0 +1,16 @@
+# Are you looking to find true love? Well, this coding exercise will be able to help you with just that.
+# This challenge is to create a love calculator. You're going to write a program that tests the compatibility between two people.
+# It doesn't really matter if you believe this or not, we're going to use it to test out our programming skills.
+# There are many ways of working out the love-score between two people, and if you've ever been to high school, you might have encountered one of these methods.
+# This method that I've put into this coding exercise comes from the well-known and well-established, respectable source of a Buzzfeed article. 
+# And essentially, it works like this. So you take both people's names and you check for the number of times the letters in the word true occurs.
+# So, T-R-U-E and then you check for the number of times letters in the word love occurs, so L-O-V-E, and then, you combine these two numbers to make a two digit number and that is your love score percentage.
+# What we're going to do is we're also going to give people an interpretation. So if their love score is less than 10 or greater than 90, then we're going to send them the message saying, "Your score is *x*
+# you go together like coke and mentos." And then for people with a love score between 40 and 50,
+# which is kind of on the fence, we say, "Your love score is *y*, you are all right together.
+# And then finally, if none of those conditions are true and people are sort of somewhere between 20 and 40 and 50 and 90, then we'll just tell them, "Your score is..." whatever it is.
+# If you take a look in the task.pdf, you'll see an example of how we've worked out name1, which is Angela and name2, which is Jack Bauer. 
+# And you can see that T-R-U-E occurs a total of 5 times in both of our names, and L-O-V-E occurs a total of 3 times in both of the names and so the final love score is 53, which is neither here nor there, which is not fantastic, but hey, it is what it is. And so that means our program is just simply going to print out the score.
+# You can take a look at some other examples that I've got in task.pdf there to check against, and also I've got some hints in there and some scores for different names.
+# This is a difficult challenge, and as I said before, if you get stuck on logic, try writing out your own flow chart program before you actually go and commit it to code, otherwise, just try things, test things, see if it works and you can try out the different variations at the bottom of the description pane, Brad Pitt, Jennifer Aniston, Prince William, Kate Middleton, et cetera, and make sure that your output matches the score that's shown in that table.
+# And this is just to help you make sure that your code is working. And when your code is working, then also you have to make sure that your output matches what the task.pdf wants it to say exactly, so the interpretations. And I recommend just copy and pasting some of those interpretations and substituting the parts appropriately. So, good luck and enjoy.
